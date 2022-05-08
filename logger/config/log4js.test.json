@@ -1,0 +1,9 @@
+{
+  "appenders": {
+    "console": { "type": "console" }
+  },
+  "categories": {
+    "default": { "appenders": ["console"], "level": "off" },
+    "http": { "appenders": ["console"], "level": "off" }
+  }
+}

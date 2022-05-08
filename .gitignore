@@ -1,0 +1,12 @@
+node_modules
+*.log
+logs/
+
+# nyc
+coverage/
+.nyc_output
+
+*.crt
+*.key
+
+.env

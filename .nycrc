@@ -1,0 +1,18 @@
+{
+  "all": true,
+  "exclude": [
+    "**/*.test.js",
+    "**/*.spec.js",
+    "coverage/**",
+    "typedef.js"
+  ],
+  "reporter": [
+    "text",
+    "html"
+  ],
+  "check-coverage": false,
+  "statements": 100,
+  "branches": 100,
+  "functions": 100,
+  "lines": 100
+}
